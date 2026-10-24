@@ -1,0 +1,6 @@
+{
+  "name": "CITY OF FADES | Bradford Barbershop & Booking",
+  "description": "Official website & appointment booking platform for CITY OF FADES, premium barbershop at 1202 Leeds Road, Bradford BD3 8LJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
